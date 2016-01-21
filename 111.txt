@@ -10,3 +10,4 @@ lzh
 
 隐藏当前工作
 gittest
+gittest2
