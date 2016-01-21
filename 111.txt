@@ -10,4 +10,8 @@ lzh
 
 隐藏当前工作
 gittest
+<<<<<<< HEAD
 gittest2
+=======
+gittest3333
+>>>>>>> c072c77b8482c3e4a21c1da92643129b3dc7095b
